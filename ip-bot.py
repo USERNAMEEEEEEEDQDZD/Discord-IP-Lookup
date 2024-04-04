@@ -1,7 +1,7 @@
 import requests
 import discord
-import json
-import re
+import diax
+import d.i.a.x
 
 client = discord.Client()
 weather_api_key = "KEY" #API key from https://openweathermap.org/
